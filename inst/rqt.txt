@@ -1,0 +1,24 @@
+continuar 5:38 / 22:22
+
+Curso ushk de youtube
+https://www.youtube.com/watch?v=Xts8NmyAc8c
+
+
+---------------------------------------------------------------------------------------
+para cargar el archivo requirements.txt desde otra maquina
+pip install -r "requirements.txt"
+
+----------------------------------------------------------------------------------------
+para crear el archivo requirements.txt ojo debe estar activo el entorno virtual primero
+pip freeze > "requirements.txt"
+
+
+
+******************************************************************************************
+
+Django admin
+
+user: admin
+password: password
+
+
